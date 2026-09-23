@@ -1,4 +1,3 @@
-# ¡Hi! I´m Alejandro Muñoz 👋
 # ¡Hola! Soy Alejandro Muñoz 👋
 ### Ingeniero | Investigación, Desarrollo & Industria
 
