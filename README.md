@@ -5,7 +5,7 @@ Bienvenido a mi portafolio profesional. Selecciona la sección que deseas consul
 
 | 📜 Secciones Principales | 🎯 Descripción |
 | :--- | :--- |
-| | 👉 **[Ver Certificaciones y Cursos](https://github.com/alejandromunoc/alejandromunoc/blob/main/Technical_Certifications.md)** | Licencias, diplomados y cursos técnicos. |
+| 👉 **[Ver Certificaciones y Cursos](https://github.com/alejandromunoc/alejandromunoc/blob/main/Technical_Certifications.md)** | Licencias, diplomados y cursos técnicos. |
 | 👉 **[Ver Proyectos de Ingeniería / R&D](https://github.com/alejandromunoc/Portfolio)** | Desarrollo de proyectos, simulaciones y código. |
 
 ---
