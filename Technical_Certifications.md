@@ -1,6 +1,6 @@
 # 📜 Certifications & Professional Credentials
 
-This repository contains my verified certifications, specializations, and professional training in **Artificial Intelligence, Cloud Computing, Telecom (5G), Cybersecurity, Software Development, and Technical English**.
+This repository contains my verified certifications, specializations, and professional training in **Artificial Intelligence, Industry 4.0, Engineering, Mechatronic, Computer Vision, Cloud Computing, Software Development, and Technical English**.
 
 ---
 
