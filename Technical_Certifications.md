@@ -4,7 +4,7 @@ This repository contains my verified certifications, specializations, and profes
 
 ---
 
-## ☁️ Cloud & Artificial Intelligence
+## ☁️ Artificial Intelligence
 
 | Certification / Course | Issuing Organization | Completion Date | Credential / Proof |
 | :--- | :--- | :---: | :---: |
@@ -15,7 +15,7 @@ This repository contains my verified certifications, specializations, and profes
 
 ---
 
-## 📡 Telecommunications, Cybersecurity & Software
+## 📡 Software
 
 | Certification / Course | Issuing Organization | Completion Date | Credential / Proof |
 | :--- | :--- | :---: | :---: |
