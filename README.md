@@ -1,11 +1,11 @@
 # ¡Hola! Soy Alejandro Muñoz 👋
-### Ingeniero | Investigación, Desarrollo & Industria
+### Engineer | Research, Development & Industry
 
-Bienvenido a mi portafolio profesional. Selecciona la sección que deseas consultar:
+Welcome to my professional portfolio. Please select the section you would like to explore:
 
-| 📜 Secciones Principales | 🎯 Descripción |
+| 📜 Key Sections | 🎯 Description |
 | :--- | :--- |
-| 👉 **[Ver Certificaciones y Cursos](https://github.com/alejandromunoc/alejandromunoc/blob/main/Technical_Certifications.md)** | Licencias, diplomados y cursos técnicos. |
-| 👉 **[Ver Proyectos de Ingeniería / R&D](https://github.com/alejandromunoc/ai-predictive-industry-alejandro.git)** | Desarrollo de proyectos, simulaciones y código. |
+| 👉 **[View Certifications & Courses](https://github.com/alejandromunoc/alejandromunoc/blob/main/Technical_Certifications.md)** | Professional licenses, diplomas, and technical training. |
+| 👉 **[View Engineering / R&D Projects](https://github.com/alejandromunoc/ai-predictive-industry-alejandro.git)** | Project development, simulations, and source code. |
 
 ---
